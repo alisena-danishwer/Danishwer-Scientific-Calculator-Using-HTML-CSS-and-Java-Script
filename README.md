@@ -1,4 +1,4 @@
-# Danishwer-Scientific-Calculator-Using-HTML-CSS-and-Java-Script
+# Danishwer-Scientific-Calculator-Using-HTML-CSS-and-JavaScript
 A fully functional scientific calculator built with HTML, CSS, and JavaScript. This calculator provides essential arithmetic operations as well as advanced scientific functions like trigonometry, logarithms, exponentials, and more. It is designed with a responsive and user-friendly interface.
 
 **Features**
